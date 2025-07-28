@@ -1,0 +1,6 @@
+# Core dependencies for PDF processing and OCR
+paddlepaddle>=2.5.0  # CPU version of PaddlePaddle
+paddleocr>=2.7.0
+easyocr>=1.7.0
+PyMuPDF>=1.23.0
+Pillow>=10.0.0

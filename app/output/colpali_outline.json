@@ -1,0 +1,265 @@
+{
+    "title": "Cosrol: ECCIAGE DOCUsNT RETRIEVAL WITH",
+    "outline": [
+        {
+            "level": "H3",
+            "text": "1   INTRODUCTION",
+            "page": 0
+        },
+        {
+            "level": "H3",
+            "text": "2   PROBLEM FORMULATION & RELATED WORK",
+            "page": 1
+        },
+        {
+            "level": "H3",
+            "text": "2.1 TEXTUAL RETRIEVAL METHODS",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "2.2 INTEGRATING VISUAL FEATURES",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "Document Retrieval in 'Text Space",
+            "page": 2
+        },
+        {
+            "level": "H3",
+            "text": "Table 1: VDoRe comprehensively evaluates multimodal retrieval methods",
+            "page": 3
+        },
+        {
+            "level": "H3",
+            "text": "3  THE VDoRe BENCHMARK",
+            "page": 3
+        },
+        {
+            "level": "H3",
+            "text": "3.1  BENCHMARK DESIGN",
+            "page": 3
+        },
+        {
+            "level": "H3",
+            "text": "3.2  ASSESSING CURRENT SYSTEMS",
+            "page": 4
+        },
+        {
+            "level": "H3",
+            "text": "4.1  ARCHITECTURE",
+            "page": 5
+        },
+        {
+            "level": "H3",
+            "text": "4.2  MODEL TRAININC",
+            "page": 5
+        },
+        {
+            "level": "H3",
+            "text": "4 LATE INTERACTION BASED VISION RETRIEVAL",
+            "page": 5
+        },
+        {
+            "level": "H1",
+            "text": "怼2 Commec#cegennfsrimrmC a m mpaehol amyolc二",
+            "page": 6
+        },
+        {
+            "level": "H3",
+            "text": "5   RESULTS",
+            "page": 6
+        },
+        {
+            "level": "H3",
+            "text": "5.1  PERFORMANCE (R1)",
+            "page": 6
+        },
+        {
+            "level": "H3",
+            "text": "5.2 LATENCIES & MEMORY FOOTPRINI",
+            "page": 7
+        },
+        {
+            "level": "H3",
+            "text": "6  ABLATION STUDY",
+            "page": 8
+        },
+        {
+            "level": "H3",
+            "text": "5.3  INTERPRETABILITY",
+            "page": 8
+        },
+        {
+            "level": "H3",
+            "text": "7  CONCLUSIONS",
+            "page": 9
+        },
+        {
+            "level": "H3",
+            "text": "ACKNOWLEDGEMENTS",
+            "page": 10
+        },
+        {
+            "level": "H3",
+            "text": "REPRODUCIBILITY STATEMENT",
+            "page": 10
+        },
+        {
+            "level": "H3",
+            "text": "A.2 PRACTICAL DATASETS",
+            "page": 15
+        },
+        {
+            "level": "H3",
+            "text": "A1  ACADEMIC DATASETS",
+            "page": 15
+        },
+        {
+            "level": "H3",
+            "text": "A   BENCHMARK DATASETS",
+            "page": 15
+        },
+        {
+            "level": "H3",
+            "text": "A.3  TRAINING DATASET",
+            "page": 16
+        },
+        {
+            "level": "H3",
+            "text": "Table 3: Details on the different splits i the dataset used to train ColPali_",
+            "page": 17
+        },
+        {
+            "level": "H3",
+            "text": "B.3   EMBEDDING SIZE",
+            "page": 17
+        },
+        {
+            "level": "H3",
+            "text": "B IMPLEMENTATION DETAILS",
+            "page": 17
+        },
+        {
+            "level": "H3",
+            "text": "B.2   HYPERPARAMETERS",
+            "page": 17
+        },
+        {
+            "level": "H3",
+            "text": "B1  CODEBASE",
+            "page": 17
+        },
+        {
+            "level": "H3",
+            "text": "B.4   LATENCY COMPUTATIONS",
+            "page": 17
+        },
+        {
+            "level": "H1",
+            "text": "豌@ma6oe lmsnsLrdcer8 n mnmongl\" 34 a881.64",
+            "page": 18
+        },
+        {
+            "level": "H3",
+            "text": "B.5  CAPTIONINC",
+            "page": 18
+        },
+        {
+            "level": "H3",
+            "text": "Fieure 5: Example frol the ' Government Reports ' test set。",
+            "page": 19
+        },
+        {
+            "level": "H1",
+            "text": "JlsnComprsireenuaran mbncelnenodknudournpconlmeradenyimoRe",
+            "page": 20
+        },
+        {
+            "level": "H1",
+            "text": "Wezemodsmattorortoihenum\"G85\"\"a;ao anlsan WDOACCond",
+            "page": 20
+        },
+        {
+            "level": "H3",
+            "text": "C  ADDITIONAL RESULTS",
+            "page": 20
+        },
+        {
+            "level": "H3",
+            "text": "C1 OTHER METRICS",
+            "page": 20
+        },
+        {
+            "level": "H3",
+            "text": "C.2  MODEL VARIANTS",
+            "page": 20
+        },
+        {
+            "level": "H3",
+            "text": "已   MODBL GLOSSARY",
+            "page": 21
+        },
+        {
+            "level": "H3",
+            "text": "D  MORE SIMILARITY MAPS",
+            "page": 21
+        },
+        {
+            "level": "H3",
+            "text": "PAITGEMN4",
+            "page": 21
+        },
+        {
+            "level": "H3",
+            "text": "SIGLIP",
+            "page": 21
+        },
+        {
+            "level": "H3",
+            "text": "COIBERT",
+            "page": 22
+        },
+        {
+            "level": "H3",
+            "text": "Artifcial Intelligence",
+            "page": 23
+        },
+        {
+            "level": "H3",
+            "text": "F   EXAMPLES FROM THE ViDoRe BENCHMARK",
+            "page": 23
+        },
+        {
+            "level": "H3",
+            "text": "Energy",
+            "page": 23
+        },
+        {
+            "level": "H1",
+            "text": "器`mmH @2盥8|4",
+            "page": 23
+        },
+        {
+            "level": "H1",
+            "text": "\"器\"。r#s.",
+            "page": 23
+        },
+        {
+            "level": "H3",
+            "text": "Healthcare Industrr",
+            "page": 24
+        },
+        {
+            "level": "H3",
+            "text": "Government Reports",
+            "page": 24
+        },
+        {
+            "level": "H3",
+            "text": "Shift",
+            "page": 25
+        }
+    ]
+}

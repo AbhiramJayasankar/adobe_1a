@@ -1,0 +1,14 @@
+# Ignore IDE and Python cache files
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+
+# Ignore local virtual environment
+temp/
+venv/
+.venv/
+
+# Ignore input/output directories as they will be mounted as volumes
+app/input/
+app/output/
